@@ -1,0 +1,20 @@
+footer {
+  background: rgb(40, 40, 60);
+  bottom: 0;
+  height: 100px;
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  margin-top: 4rem;
+  position: relative;
+  width: 100%;
+}
+#wrapper{
+  background: blue;
+  max-height: 1000px;
+  max-width: 600px
+}
+p {
+  background: blue;
+  display: flex;
+}
